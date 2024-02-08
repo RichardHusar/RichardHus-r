@@ -9,6 +9,11 @@
 - <b>Python</b>
   - [IN PROGRESS]()
 
+<h2>📝 Certifications</h2>
+
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UZKGTKGCLVDC)
+- [CCNA in progress]()
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RichardHusár | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,6 +34,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
