@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>CCNA Practice (PT,GNS3)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting CCNA](https://github.com/RichardHusar/NetworkingHomelabs)
 - <b>PowerShell</b>
   - [IN PROGRESS]()
 - <b>Python</b>
