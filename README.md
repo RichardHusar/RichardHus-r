@@ -4,8 +4,11 @@
 
 - <b>CCNA Practice (PT,GNS3)</b>
   - [Praciting CCNA](https://github.com/RichardHusar/NetworkingHomelabs)
-- <b>CyberSecurity</b>
-  - [IN PROGRESS]()
+- <b>CyberSecurity homelab roadmap</b>
+  - Wireshark capture                   -comming soon
+  - Vulnerability Scanning Using Nessus -comming soon
+  - Honeypot                            -comming soon 
+  - Build a SIEM system in azure        -comming soon
 - <b>PowerShell</b>
   - [IN PROGRESS]()
 - <b>Python</b>
@@ -24,6 +27,8 @@
 [instagram]: https://www.instagram.com/richard_oidivus_husar/
 [linkedin]:  https://www.linkedin.com/in/richard-husár-5a8ab6260/
 <!--
+https://github.com/paralax/awesome-honeypots#readme
+
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
