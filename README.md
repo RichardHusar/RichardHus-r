@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Networking)</b>
+- <b>Networking</b>
   - [Praciting CCNA (PT,GNS3)](https://github.com/RichardHusar/NetworkingHomelabs)
-  - Seting up NMS
+  - Seting up NMS -comming soon
 - <b>CyberSecurity homelab roadmap</b>
   - Wireshark capture                   -comming soon
   - Vulnerability Scanning Using Nessus -comming soon
