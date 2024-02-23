@@ -6,7 +6,7 @@
   - [Praciting CCNA (PT,GNS3)](https://github.com/RichardHusar/NetworkingHomelabs)
   - Seting up NMS -comming soon
 - <b>CyberSecurity homelab roadmap</b>
- - [Vulnerability Scanning Using Nessus](https://github.com/RichardHusar/Vulnerability_Scanner_Deployment-_Nessus)
+  - [Vulnerability Scanning Using Nessus](https://github.com/RichardHusar/Vulnerability_Scanner_Deployment-_Nessus)
   - Wireshark capture                   -comming soon
   - Honeypot                            -comming soon 
   - Build a SIEM system in azure        -comming soon
