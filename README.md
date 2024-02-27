@@ -7,9 +7,9 @@
   - Seting up NMS -comming soon
 - <b>CyberSecurity homelab roadmap</b>
   - [Vulnerability Scanning Using Nessus](https://github.com/RichardHusar/Vulnerability_Scanner_Deployment-_Nessus)
-  - Wireshark capture                   -description of the project comming soon
-  - Honeypot                            -description of the project comming soon 
-  - Build a SIEM system in azure        -description of the project comming soon
+  - Wireshark capture______________ description of the project comming soon
+  - Honeypot_______________________ description of the project comming soon 
+  - Build a SIEM system in azure___ description of the project comming soon
 - <b>PowerShell</b>
   - [IN PROGRESS]()
 - <b>Python</b>
